@@ -1,0 +1,58 @@
+{
+  "station_none": {
+    "label": "駅前景観(未発展)",
+    "file": "station_none.png",
+    "prompt": "A single Japanese train station front townscape illustration, undeveloped ordinary local station: modest station building with wooden platform roof, simple shopping street lined with a few small local shops, quiet residential streets nearby, gentle morning light, muted natural color palette (soft blues, warm beige, gentle greens), wide establishing shot, no people in foreground, realistic yet warm and inviting mobile game art style, soft painterly shading, clean semi-realistic Japanese railway management game asset illustration, no text, no logo, no watermark, no border, no signature, no stamps, no seals",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-03T07:30:01.495Z"
+  },
+  "station_onsen": {
+    "label": "駅前景観(温泉)",
+    "file": "station_onsen.png",
+    "prompt": "A single Japanese train station front townscape illustration, onsen (hot spring) development: traditional wooden ryokan inns with steaming hot spring baths, red lanterns lining a cobblestone street, gentle steam rising, warm orange-amber evening light, Japanese hot spring town atmosphere, warm color palette (deep orange, amber, warm brown), wide establishing shot, no people in foreground, realistic yet warm and inviting mobile game art style, soft painterly shading, clean semi-realistic Japanese railway management game asset illustration, no text, no logo, no watermark, no border, no signature, no stamps, no seals",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-03T07:30:10.563Z"
+  },
+  "station_shogyo": {
+    "label": "駅前景観(商業)",
+    "file": "station_shogyo.png",
+    "prompt": "A single Japanese train station front townscape illustration, shogyo (commercial) development: bustling shopping arcade with covered shotengai street, bright shop signs and awnings, department store facade, lively daytime energy, vivid but tasteful color palette (fresh green accents, bright white, cheerful yellow), wide establishing shot, no distinct human figures, realistic yet warm and inviting mobile game art style, soft painterly shading, clean semi-realistic Japanese railway management game asset illustration, no text, no logo, no watermark, no border, no signature, no stamps, no seals",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-03T07:30:16.732Z"
+  },
+  "station_kanko": {
+    "label": "駅前景観(観光)",
+    "file": "station_kanko.png",
+    "prompt": "A single Japanese train station front townscape illustration, kanko (tourism) development: scenic landmark plaza with a traditional Japanese landmark (temple gate or scenic viewpoint), cherry blossom trees, clear blue sky, picturesque sightseeing destination atmosphere, vivid color palette (sakura pink, sky blue, fresh green), wide establishing shot, no people in foreground, realistic yet warm and inviting mobile game art style, soft painterly shading, clean semi-realistic Japanese railway management game asset illustration, no text, no logo, no watermark, no border, no signature, no stamps, no seals",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-03T07:30:34.229Z"
+  },
+  "staff_sample_1": {
+    "label": "駅員キャラ(男性・ベテラン)",
+    "file": "staff_sample_1.png",
+    "prompt": "A single character illustration: a friendly middle-aged Japanese train station staff member, warm dignified smile, neat navy-blue railway uniform with cap and gold buttons, rounded approachable game-character proportions, standing confident pose, simple soft gradient background, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-03T07:30:46.056Z"
+  },
+  "staff_sample_2": {
+    "label": "駅員キャラ(女性・若手)",
+    "file": "staff_sample_2.png",
+    "prompt": "A single character illustration: a cheerful young Japanese female train station staff member, bright welcoming smile, neat navy-blue railway uniform with skirt and cap, short bob hairstyle, rounded approachable game-character proportions, energetic pose with one hand raised in greeting, simple soft gradient background, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-03T07:30:59.598Z"
+  },
+  "staff_sample_3": {
+    "label": "駅員キャラ(駅長)",
+    "file": "staff_sample_3.png",
+    "prompt": "A single character illustration: a dignified Japanese station master, formal dark navy uniform with more elaborate gold braid and a peaked cap, calm authoritative expression, holding a signal baton, rounded approachable game-character proportions, standing dignified pose, simple soft gradient background, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-03T07:31:15.293Z"
+  }
+}

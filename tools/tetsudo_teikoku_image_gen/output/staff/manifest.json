@@ -1,0 +1,92 @@
+{
+  "n_1": {
+    "rarity": "N",
+    "archetype": "a calm stoic senior stationmaster with a composed authoritative expression",
+    "file": "n_1.png",
+    "prompt": "A single character illustration: a calm stoic senior stationmaster with a composed authoritative expression, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, simple plain soft gradient background, standard clean navy-blue railway uniform, no extra ornamentation, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:12:20.412Z"
+  },
+  "n_2": {
+    "rarity": "N",
+    "archetype": "an enthusiastic young male attendant wearing glasses, eager and friendly expression",
+    "file": "n_2.png",
+    "prompt": "A single character illustration: an enthusiastic young male attendant wearing glasses, eager and friendly expression, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, simple plain soft gradient background, standard clean navy-blue railway uniform, no extra ornamentation, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:12:34.958Z"
+  },
+  "r_1": {
+    "rarity": "R",
+    "archetype": "a warm dignified middle-aged male station attendant with a gentle smile",
+    "file": "r_1.png",
+    "prompt": "A single character illustration: a warm dignified middle-aged male station attendant with a gentle smile, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, soft blurred train platform background, neat railway uniform with subtle silver trim, gentle rim lighting, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:12:45.015Z"
+  },
+  "r_2": {
+    "rarity": "R",
+    "archetype": "a cheerful energetic young female station attendant with a bright welcoming smile",
+    "file": "r_2.png",
+    "prompt": "A single character illustration: a cheerful energetic young female station attendant with a bright welcoming smile, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, soft blurred train platform background, neat railway uniform with subtle silver trim, gentle rim lighting, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:12:53.066Z"
+  },
+  "r_3": {
+    "rarity": "R",
+    "archetype": "a calm stoic senior stationmaster with a composed authoritative expression",
+    "file": "r_3.png",
+    "prompt": "A single character illustration: a calm stoic senior stationmaster with a composed authoritative expression, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, soft blurred train platform background, neat railway uniform with subtle silver trim, gentle rim lighting, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:13:03.607Z"
+  },
+  "sr_1": {
+    "rarity": "SR",
+    "archetype": "an elegant composed middle-aged female supervisor with a professional confident expression",
+    "file": "sr_1.png",
+    "prompt": "A single character illustration: an elegant composed middle-aged female supervisor with a professional confident expression, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, dynamic background with faint railway track motifs and a small train silhouette, glowing soft blue highlights, railway uniform with gold trim accents, slightly dramatic lighting, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:13:12.936Z"
+  },
+  "sr_2": {
+    "rarity": "SR",
+    "archetype": "a warm dignified middle-aged male station attendant with a gentle smile",
+    "file": "sr_2.png",
+    "prompt": "A single character illustration: a warm dignified middle-aged male station attendant with a gentle smile, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, dynamic background with faint railway track motifs and a small train silhouette, glowing soft blue highlights, railway uniform with gold trim accents, slightly dramatic lighting, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:13:22.781Z"
+  },
+  "sr_3": {
+    "rarity": "SR",
+    "archetype": "a cheerful energetic young female station attendant with a bright welcoming smile",
+    "file": "sr_3.png",
+    "prompt": "A single character illustration: a cheerful energetic young female station attendant with a bright welcoming smile, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, dynamic background with faint railway track motifs and a small train silhouette, glowing soft blue highlights, railway uniform with gold trim accents, slightly dramatic lighting, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:13:31.591Z"
+  },
+  "ssr_1": {
+    "rarity": "SSR",
+    "archetype": "an elegant composed middle-aged female supervisor with a professional confident expression",
+    "file": "ssr_1.png",
+    "prompt": "A single character illustration: an elegant composed middle-aged female supervisor with a professional confident expression, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, grand ornate background with golden light rays and sparkling particle effects, elaborate ceremonial railway uniform with rich gold braid, dramatic premium lighting, highly detailed quality game character art, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:13:44.206Z"
+  },
+  "ssr_2": {
+    "rarity": "SSR",
+    "archetype": "a warm dignified middle-aged male station attendant with a gentle smile",
+    "file": "ssr_2.png",
+    "prompt": "A single character illustration: a warm dignified middle-aged male station attendant with a gentle smile, wearing a Japanese train station staff uniform, rounded approachable game-character proportions, standing confident pose, grand ornate background with golden light rays and sparkling particle effects, elaborate ceremonial railway uniform with rich gold braid, dramatic premium lighting, highly detailed quality game character art, no text, no logo, no watermark, no border, no signature, semi-realistic mobile game character art style",
+    "provider": "leonardo",
+    "modelId": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
+    "generatedAt": "2026-08-04T04:14:03.821Z"
+  }
+}

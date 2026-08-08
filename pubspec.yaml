@@ -1,0 +1,62 @@
+name: tetsudo_teikoku
+description: "鉄道帝国 — 実在路線×駅員育成×経営シミュレーション"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  flutter_riverpod: ^2.5.1
+
+  # Firebase
+  firebase_core: ^3.0.0
+  firebase_analytics: ^11.0.0
+  firebase_crashlytics: ^4.0.0
+  firebase_remote_config: ^5.0.0
+  firebase_auth: ^5.0.0
+  cloud_firestore: ^5.0.0
+
+  # Audio / Purchases
+  audioplayers: ^6.0.0
+  purchases_flutter: ^10.4.0
+
+  # Visual
+  lottie: ^3.1.0
+  google_fonts: ^6.2.1
+
+  # ラッシュアワーミニゲーム
+  flame: ^1.24.0
+
+  # SNS共有
+  share_plus: ^10.1.2
+
+  # Local Storage
+  shared_preferences: ^2.2.3
+
+  # Utilities
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/animations/
+    - assets/sounds/
+    - assets/music/
+    - assets/data/
