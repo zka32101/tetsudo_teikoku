@@ -1,5 +1,4 @@
-name: tetsudo_teikoku
-description: "鉄道帝国 — 実在路線×駅員育成×経営シミュレーション"
+﻿name: tetsudo_teikoku
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -60,3 +59,4 @@ flutter:
     - assets/sounds/
     - assets/music/
     - assets/data/
+
